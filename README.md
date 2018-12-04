@@ -1,2 +1,2 @@
 # My Portfolio Page.
-# I design to exercise my skills and to study html/css/javascript.
+# I design this page to exercise my skills and to study html/css/javascript.
