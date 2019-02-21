@@ -83,8 +83,14 @@ font-weight: 600;
 color:rgb(153, 0, 153);
 }
 
+input{
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+
 #call-to-action{
-height:30px; 
+height:30px !important; 
 background-color: rgb(153, 0, 153);
 border: none;
 border-radius: 5px;
@@ -98,9 +104,6 @@ font-family: "Andika";
 font-size: 20px;   
 align-self: center;
 cursor:pointer;
--webkit-appearance: none;
--moz-appearance: none;
-appearance: none;
 }
 
 #call-to-action:hover{
