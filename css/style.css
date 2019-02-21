@@ -97,6 +97,11 @@ font-family: "Andika";
 font-size: 20px;   
 align-self: center;
 cursor:pointer;
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+
+
 }
 button#call-to-action:hover{
 background-color: rgb(95, 28, 37);
