@@ -131,3 +131,32 @@ font-size: 15px;
 text-align: center;
 color:rgb(83,0,0);
 }
+
+@media (min-width:500px) and (max-width:999px){
+.banner{
+flex-wrap: wrap;
+}
+
+input[type=button]{
+font-size: 14px;
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+
+       
+}
+
+@media (max-width:499px){
+.banner{
+flex-wrap: wrap;
+}
+     
+input[type=button]{
+font-size: 14px;
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+}
+
+}
