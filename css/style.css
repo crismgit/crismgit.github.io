@@ -84,6 +84,7 @@ color:rgb(153, 0, 153);
 }
 
 #call-to-action{
+height:30px; 
 background-color: rgb(153, 0, 153);
 border: none;
 border-radius: 5px;
@@ -100,9 +101,8 @@ cursor:pointer;
 -webkit-appearance: none;
 -moz-appearance: none;
 appearance: none;
-
-
 }
+
 #call-to-action:hover{
 background-color: rgb(95, 28, 37);
 }
