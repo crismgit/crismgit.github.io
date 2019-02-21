@@ -83,7 +83,7 @@ font-weight: 600;
 color:rgb(153, 0, 153);
 }
 
-input{
+button#call-to-action{
 -webkit-appearance: none;
 -moz-appearance: none;
 appearance: none;
@@ -138,7 +138,7 @@ font-size: 30px;
 }
 
 
-input[type=button]{
+button#call-to-action{
 font-size: 16px;
 -webkit-appearance: none;
 -moz-appearance: none;
@@ -153,7 +153,7 @@ appearance: none;
 font-size: 30px;
 }
 
-input[type=button]{
+button#call-to-action{
 font-size: 16px;
 -webkit-appearance: none;
 -moz-appearance: none;
