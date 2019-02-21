@@ -134,12 +134,12 @@ color:rgb(83,0,0);
 
 @media (min-width:500px) and (max-width:999px){
 #p-banner-content{
-font-size: 14px;
+font-size: 20px;
 }
 
 
 input[type=button]{
-font-size: 14px;
+font-size: 20px;
 -webkit-appearance: none;
 -moz-appearance: none;
 appearance: none;
@@ -150,11 +150,11 @@ appearance: none;
 
 @media (max-width:499px){
 #p-banner-content{
-font-size: 14px;
+font-size: 20px;
 }
-     
+
 input[type=button]{
-font-size: 14px;
+font-size: 20px;
 -webkit-appearance: none;
 -moz-appearance: none;
 appearance: none;
